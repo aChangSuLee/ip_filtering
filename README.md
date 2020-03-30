@@ -19,3 +19,9 @@ Properties 파일을 읽어서 Dict 을 만든다.
 
 IntelliJ 를 이용하여 spring boot 를 실행시킬 수 있다.
 
+
+- 웹어플리케이셔 부하테스트
+
+nGrinder 를 이용하였다.
+
+로컬에 Agent 와 서버, controller 를 모두 동작시켰다.
